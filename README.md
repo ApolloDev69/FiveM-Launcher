@@ -12,6 +12,6 @@ Apollo#6553
 
 תמונה של הלאנצר-אפשר לשנות את הלוגו ואת הרקע כמובן
 
-https://imgur.com/ODDEzYs
+https://i.imgur.com/ODDEzYs.png
 
 יש הנחיות בתוך הקובץ עצמו איך לשנות כל דבר
