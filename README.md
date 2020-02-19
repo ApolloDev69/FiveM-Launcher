@@ -1,18 +1,15 @@
 # FiveM-Launcher
 This Is A FiveM Launcher You can Change It And Make It Yours
 But Dont Delete The Cerdits
-
-
 If you need any help setting up this you can contact me on Discord 
 Apollo#6553
+
+-TO SEE PREVIEW JOIN THE LINK - (YOU CAN CHANGE THE LOGO AND THE BACKGROUND.)-
 
 תוכלו לעצב אותו כרצונכם אך להשאיר קרדיט ליוצר FiveMלאנצר חינמי ל 
 אם תצטרכו עזרה כלשהי בלהתקין ולשנות את הלאמצר תוכלו לפנות אליי בדיסקורד
 Apollo#6553
 
-PIC OF THE LUNCHER - YOU CAN CHANGE THE LOGO AND THE BACKGROUND.
-
-.תמונה של הלאנצר-אפשר לשנות את הלוגו ואת הרקע כמובן
-
+תמונה של הלאנצר-אפשר לשנות את הלוגו ואת הרקע כמובן
 
 https://imgur.com/ODDEzYs
