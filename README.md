@@ -11,5 +11,8 @@ Apollo#6553
 Apollo#6553
 
 PIC OF THE LUNCHER - YOU CAN CHANGE THE LOGO AND THE BACKGROUND.
+
 .תמונה של הלאנצר-אפשר לשנות את הלוגו ואת הרקע כמובן
-https://cdn.discordapp.com/attachments/659728568611241994/679691660384403456/unknown.png
+
+
+https://imgur.com/ODDEzYs
